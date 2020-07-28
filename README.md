@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  🤓 | :octocat:
------------- | -------------
+---------- | ---------
 I am Folorunso, an intellectually curious creature. I'm Currently working on improving the quality of life of Nigerian Students [WakaforMe](https://twitter.com/wakaforme_ng)|![github stats](https://github-readme-stats.vercel.app/api?username=afolorunso&show_icons=true&line_height=60) 
 
 ## ⚡ Technologies 
