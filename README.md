@@ -9,7 +9,7 @@ I am Folorunso, an intellectually curious creature. I'm currently working on con
 ## ⚡ Technologies 
 - Front-end development using **HTML, Javascript,CSS,Bootstrap, Vue Js, React Js**
 - Backend development using **PHP, Laravel, Node Js, SQL, Postgresql, MSSQL**
-- Worked with **Microsoft Bot Framework, C#, UiPath, ProcessMaker**
+- Solved Problems with **Microsoft Bot Framework, C#, UiPath [RPA], ProcessMaker**
 - I develop Mobile App with **Flutter**
 
 
