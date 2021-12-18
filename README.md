@@ -11,5 +11,5 @@ I am Folorunso, an intellectually curious creature, and a passionate problem sol
 - Backend development using **PHP, Laravel, Node Js, SQL, Postgresql, MSSQL**
 - Solved Problems with **Microsoft Bot Framework, C#, UiPath [RPA], ProcessMaker**
 - I develop Mobile App with **Flutter**
-
+- Currently learning **Blockchain technology**
 
