@@ -7,9 +7,8 @@ I am Folorunso, an intellectually curious creature, and a passionate problem sol
 <!-- ⚡ **Fun fact:** Scientific observations has proven that [@Tobby](https://twitter.com/mroluwatobby) has the features of human, Well! that could be true But just said in a wrong way! My curiousity has led me to discover his humanoid status --great mind, half-human, half-robot, and definitely half-spirit. 👽
  -->
 ## ⚡ Technologies 
-- Front-end development using **HTML, Javascript,CSS,Bootstrap, Vue Js, React Js**
+- Front-end Web development using **HTML, Javascript,CSS,Bootstrap, Vue Js, React Js**
 - Backend development using **PHP, Laravel, Node Js, SQL, Postgresql, MSSQL**
-- Solved Problems with **Microsoft Bot Framework, C#, UiPath [RPA], ProcessMaker**
+- I create scalable enterprise solutions with **Microsoft Bot Framework, Microsoft Power Platforms, UiPath [RPA] & ProcessMaker**
 - I develop Mobile App with **Flutter**
-- Currently learning **Microsoft Power Platforms {Power Apps & Power Automate}**
 
