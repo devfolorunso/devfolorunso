@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **Robotic Process Automation, Mobile App Development**
 
-- 📫 How to reach me **devfolorunso@gmail.com**
-
 - ⚡ Fun fact **I think I'm a good footballer**
 
 <h4 align="left">Connect with me:</h4>
