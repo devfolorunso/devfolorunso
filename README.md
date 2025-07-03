@@ -4,7 +4,7 @@
 <h3 align="center">an intellectually curious creature, and a passionate problem solver.</h3>
 
 
-- 💬 Ask me about **Robotic Process Automation, Business Process Automation, Mobile App Development.**
+- 💬 Ask me about **Robotic Process Automation, Workflow Automation,Mobile App Development, Website Development.**
 
 - ⚡ Fun fact: **I think I'm a good footballer**
 
