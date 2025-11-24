@@ -6,7 +6,6 @@
 
 - 💬 Ask me about **Robotic Process Automation, Workflow Automation,Mobile App Development, Website Development.**
 
-- ⚡ Fun fact: **I think I'm a good footballer**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
