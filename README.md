@@ -89,13 +89,7 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="38" height="38"/>
   </a>
 </p>
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devfolorunso&show_icons=true&theme=onedark" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devfolorunso&theme=onedark" height="165" />
-</p>
-
+>
 
 <p align="center">
   <i>Always learning. Always building. Always improving.</i>
