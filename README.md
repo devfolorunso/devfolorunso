@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Folorunso Adesanya</h1>
 <p align="center">
-  <b>Senior RPA Developer • Workflow Automation • Problem Solver</b><br/>
+  <b>Senior AI & RPA Developer • Enterprise Workflow Automation • Problem Solver</b><br/>
   Intellectually curious, always building practical solutions with automation and software.
 </p>
 
