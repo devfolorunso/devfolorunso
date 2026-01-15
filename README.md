@@ -19,7 +19,7 @@
 - I enjoy turning messy manual processes into clean, reliable workflows.
 
 ### 💬 Ask me about
-**Robotic Process Automation • Workflow Automation • Mobile Apps • Web Development**
+** •AI Automation •Robotic Process Automation •Workflow Automation • Mobile Apps • Web Development**
 
 ### 🧰 Technologies & Tools
 <p align="left">
