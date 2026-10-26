@@ -77,15 +77,6 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="38" height="38"/>
-  </a>
-  &nbsp;
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="38" height="38"/>
-  </a>
-</p>
 
 
 <p align="center">
