@@ -23,6 +23,9 @@
 
 ### 🧰 Technologies & Tools
 <p align="left">
+   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="38" height="38"/>
+  </a>
   <a href="https://www.uipath.com/" target="_blank" rel="noreferrer">
     <img src="https://logos-download.com/wp-content/uploads/2021/01/UiPath_Logo-1536x523.png" alt="uipath" height="34"/>
   </a>
@@ -35,16 +38,10 @@
     <img src="https://cdn.worldvectorlogo.com/logos/zapier.svg" alt="zapier" width="36" height="36"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.make.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.make.com/logos/make-logo-text-rgb.svg" alt="make" height="28"/>
-  </a>
+
 </p>
 
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="38" height="38"/>
-  </a>
-  &nbsp;
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="38" height="38"/>
   </a>
